@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cngzhnCode0
 - 📫 How to reach me ...
 
--Discord : cngzhn#3810
+-Discord : cngzhn#3810 <br>
 -Gmail : cngzhnbot@gmail.com
 
 <!---
